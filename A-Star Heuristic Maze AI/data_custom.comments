@@ -1,0 +1,7 @@
+0 0                         # Start State
+10 10                       # Goal State
+4                           # Number of obstacles
+0 0 4 0 4 3 0 3             # Obstacle 1
+1 7 3 8 4 6 2 5             # Obstacle 2
+4 11 6 12 9 6 7 5           # Obstacle 3
+9 10 10 10 10 7 9 7         # Obstacle 4
